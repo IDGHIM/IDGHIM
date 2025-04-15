@@ -13,7 +13,7 @@ Bienvenue sur mon profil GitHub ! Je suis un intégrateur junior passionné par 
 
 ## Compétences et technologies 🛠️
 
-- **Langages** : HTML, CSS, 
+- **Langages** : HTML, CSS
 - **Frameworks et outils** : VS Code
 - **Compétences spécifiques** : Responsive Design
 
