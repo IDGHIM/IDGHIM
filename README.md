@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Je suis un intégrateur junior passionné par 
 - 🌱 **Passionné** par le développement web et la création d'interfaces
 - 🧠 **Imagination sans limite** : Je transforme chaque idée en réalité numérique
 - 🎯 Mon objectif : Créer des interfaces modernes, fluides et responsive
-- 📫 Contact : [Email](ichemdghim@gmail.com) & [Réseaux](https://www.instagram.com/iichoumm_pwr/) 
+- 📫 Contact : [Email](ichemdghim@gmail.com) & [Instagram](https://www.instagram.com/iichoumm_pwr/) 
 
 ## Compétences et technologies 🛠️
 
