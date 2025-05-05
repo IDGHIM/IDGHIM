@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I’m a junior web developer passionate about the 
 - 🌱 **Passionate** about web development and interface design
 - 🧠 **Limitless imagination**: I turn every idea into digital reality
 - 🎯 My goal: To create modern, fluid, and responsive interfaces
-- 📫 Contact me: [Email](ichemdghim@gmail.com) & [Instagram](https://www.instagram.com/iichoumm_pwr/)
+- 📫 Contact me: [Email](ichemdghim@gmail.com) , [Linkedin](https://www.linkedin.com/in/ichem-dghim/) & [Instagram](https://www.instagram.com/iichoumm_pwr/)
 
 ## Skills and Technologies 🛠️
 
 - **Languages**: HTML, CSS
 - **Frameworks & Tools**: VS Code
-- **Specific Skills**: Responsive Design
+- **Specific Skills**: Responsive Web Design
 
 ## My Projects 👨‍💻
 
@@ -34,13 +34,13 @@ Bienvenue sur mon profil GitHub ! Je suis un intégrateur junior passionné par 
 - 🌱 **Passionné** par le développement web et la création d'interfaces
 - 🧠 **Imagination sans limite** : Je transforme chaque idée en réalité numérique
 - 🎯 Mon objectif : Créer des interfaces modernes, fluides et responsive
-- 📫 Contact : [Email](ichemdghim@gmail.com) & [Instagram](https://www.instagram.com/iichoumm_pwr/) 
+- 📫 Contact : [Email](ichemdghim@gmail.com) , [Linkedin](https://www.linkedin.com/in/ichem-dghim/) & [Instagram](https://www.instagram.com/iichoumm_pwr/)
 
 ## Compétences et technologies 🛠️
 
-- **Langages** : HTML, CSS
+- **Langages** : HTML, CSS, JS
 - **Frameworks et outils** : VS Code
-- **Compétences spécifiques** : Responsive Design
+- **Compétences spécifiques** : Responsive Web Design
 
 ## Mes projets 👨‍💻
 
