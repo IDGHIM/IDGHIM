@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a junior web developer passionate about the 
 
 ## Skills and Technologies 🛠️
 
-- **Languages**: HTML, CSS
+- **Languages**: HTML, CSS, JS
 - **Frameworks & Tools**: VS Code
 - **Specific Skills**: Responsive Web Design
 
