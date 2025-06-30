@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I’m a junior web developer passionate about the 
 ## Skills and Technologies 🛠️
 
 - **Languages**: HTML, CSS, JS
-- **Frameworks & Tools**: VS Code
-- **Specific Skills**: Responsive Web Design
+- **Frameworks & Tools**: VS Code, React
+- **Specific Skills**: Responsive Web Design, JavaScript Algorithms and Data Structures, Back End Development and APIs
 
 ## My Projects 👨‍💻
 
@@ -39,8 +39,8 @@ Bienvenue sur mon profil GitHub ! Je suis un intégrateur junior passionné par 
 ## Compétences et technologies 🛠️
 
 - **Langages** : HTML, CSS, JS
-- **Frameworks et outils** : VS Code
-- **Compétences spécifiques** : Responsive Web Design
+- **Frameworks et outils** : VS Code, React
+- **Compétences spécifiques** : Responsive Web Design, JavaScript Algorithms and Data Structures, Back End Development and APIs
 
 ## Mes projets 👨‍💻
 
