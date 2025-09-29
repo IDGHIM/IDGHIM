@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a junior web developer passionate about the 
 ## About Me
 
 - 🎓 **Graduated** with a STI2D diploma specializing in SIN
-- 💻 **Junior Developer** based in Agen
+- 💻 **Junior Web Developer** based in Agen
 - 🌱 **Passionate** about web development and interface design
 - 🧠 **Limitless imagination**: I turn every idea into digital reality
 - 🎯 My goal: To create modern, fluid, and responsive interfaces
@@ -30,7 +30,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web junior passionné 
 ## À propos de moi
 
 - 🎓 **Diplômé** d'un bac STI2D spécialité SIN
-- 💻 **Intégrateur junior** basé à Agen
+- 💻 **Développeur web junior** basé à Agen
 - 🌱 **Passionné** par le développement web et la création d'interfaces
 - 🧠 **Imagination sans limite** : Je transforme chaque idée en réalité numérique
 - 🎯 Mon objectif : Créer des interfaces modernes, fluides et responsive
