@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a junior web developer passionate about the 
 
 # Salut, je suis DGHIM Ichem 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un intégrateur junior passionné par l'univers du web. À 20 ans, je me suis lancé dans la création de sites modernes, fluides et responsive. Je suis constamment à la recherche de nouvelles idées à réaliser et je m'efforce de donner vie à chaque projet avec créativité et précision.
+Bienvenue sur mon profil GitHub ! Je suis un développeur web junior passionné par l'univers du web. À 20 ans, je me suis lancé dans la création de sites modernes, fluides et responsive. Je suis constamment à la recherche de nouvelles idées à réaliser et je m'efforce de donner vie à chaque projet avec créativité et précision.
 
 ## À propos de moi
 
