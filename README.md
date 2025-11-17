@@ -1,6 +1,6 @@
 # Hi, I'm DGHIM Ichem 👋
 
-Welcome to my GitHub profile! I’m a junior web developer passionate about the world of web development. At 20 years old, I started creating modern, fluid, and responsive websites. I’m constantly looking for new ideas to work on and I strive to bring each project to life with creativity and precision.
+Welcome to my GitHub profile! I’m junior web developer passionate about the world of web development. At 20 years old, I started creating modern, fluid, and responsive websites. I’m constantly looking for new ideas to work on and I strive to bring each project to life with creativity and precision.
 
 ## About Me
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a junior web developer passionate about the 
 
 # Salut, je suis DGHIM Ichem 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur web junior passionné par l'univers du web. À 20 ans, je me suis lancé dans la création de sites modernes, fluides et responsive. Je suis constamment à la recherche de nouvelles idées à réaliser et je m'efforce de donner vie à chaque projet avec créativité et précision.
+Bienvenue sur mon profil GitHub ! Je suis développeur web junior passionné par l'univers du web. À 20 ans, je me suis lancé dans la création de sites modernes, fluides et responsive. Je suis constamment à la recherche de nouvelles idées à réaliser et je m'efforce de donner vie à chaque projet avec créativité et précision.
 
 ## À propos de moi
 
