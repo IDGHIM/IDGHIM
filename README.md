@@ -21,7 +21,7 @@ I'm **Ichem DGHIM**, 21, a junior web developer based in **Agen, France**.
 I build modern, smooth and responsive web interfaces — from design to deployment.
 
 Graduated with a **STI2D SIN** diploma, then a **BTS SN Option B** in Electronics & Communication.
-Currently completing my **Professional Title DWWM** (Web & Mobile Web Developer) in 2025.
+Currently completing my **Professional Title DWWM** (Web & Mobile Web Developer) in 2025 — front-end part validated ✅.
 
 When I'm not coding, I'm competing in **powerlifting** — a discipline that taught me discipline, perseverance and pushing past limits. Qualities I apply line by line.
 
@@ -74,7 +74,7 @@ Je suis **Ichem DGHIM**, 21 ans, développeur web junior basé à **Agen, France
 Je crée des interfaces web modernes, fluides et responsives — du design au déploiement.
 
 Diplômé d'un **Bac STI2D SIN**, puis d'un **BTS SN Option B** en Électronique et Communication.
-En cours de validation de mon **Titre Professionnel DWWM** (Développeur Web et Web Mobile) en 2025.
+En cours de validation de mon **Titre Professionnel DWWM** (Développeur Web et Web Mobile) en 2025 — partie front-end validée ✅.
 
 Quand je ne code pas, je soulève de la fonte en **compétition de powerlifting** — une discipline qui m'a appris la rigueur, la persévérance et le dépassement de soi. Des qualités que j'applique ligne par ligne.
 
